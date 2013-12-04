@@ -1,0 +1,24 @@
+TestCase3
+File for testing Final Project
+20
+Spinning 4 00 23 00
+Dodge_ball 10 30 12 30
+Yoga 7 30 8 30
+Boxing 15 30 16 30
+Boot_camp 11 00 12 00
+Martial_Arts 17 00 20 00
+Basket_Ball 7 00 13 00
+Racquet_Ball 10 00 14 00
+Weight_Training 18 30 20 30
+Aerobics 9 30 13 30
+Water_Aerobics 6 00 8 00
+Hot_Yoga 7 00 10 00
+Jump_Rope 13 00 15 00
+Karate 22 00 23 00
+Seam_Carving 10 00 10 30
+Foot_Skills 9 30 10 30
+Zumba 5 00 6 30
+Dance_Aerobics 12 00 1 00
+Core_Exercises 13 30 14 00
+Arm_Sculpting 14 00 14 30
+

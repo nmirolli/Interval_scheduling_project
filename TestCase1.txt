@@ -1,0 +1,8 @@
+TestCase1
+File for testing Final Project
+5
+Spinning 8 00 9 00
+Dodge_ball 10 30 12 30
+Yoga 7 30 8 30
+Boxing 15 30 16 30
+Boot_camp 11 00 12 00
